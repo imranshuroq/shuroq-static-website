@@ -15,7 +15,7 @@ const translations = {
     contact_phone_title: "Phone",
     contact_phone: "+91 8983140094",
     contact_location_title: "Location",
-    contact_location: "Imran Residency,14-20-174,Pandith Nehru Nagar,Allapur<br>Hyderabad, Telangana<br>India",
+    contact_location: "Imran Residency,14-20-174,Pandith Nehru Nagar,Allapur<br>Hyderabad, Telangana,500018<br>India",
     follow_us: "Follow Us",
     send_message: "Send us a Message",
     form_description: "We'd love to hear from you. Send us a message and we'll respond as soon as possible.",
